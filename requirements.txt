@@ -1,0 +1,5 @@
+django
+djangorestframework
+Pillow
+drf-yasg
+django-cors-headers
